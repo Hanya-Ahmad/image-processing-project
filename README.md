@@ -25,7 +25,7 @@ npm run build
 ```
 npm run Jasmine
 ```
-**Build and run Jasmine
+*Build and run Jasmine
 ```
 npm run test
 ```
