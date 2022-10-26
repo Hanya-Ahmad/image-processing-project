@@ -1,6 +1,7 @@
-
+# Overview
 This API allows you to add images into your frontend with the size set via URL parameters.
-#Endpoints
+
+# Endpoints
 
 * This endpoint takes in URL arguments and sends back the resized image according to the width and height parameters provided in the URL.
 * The endpoint for resizing is http://localhost:3000/imageProcessor 
@@ -8,7 +9,8 @@ This API allows you to add images into your frontend with the size set via URL p
 
 * **Example:** http://localhost:3000/imageProcessor?filename=icelandwaterfall&height=400&width=500
 
-#Scripts
+# Scripts
+
 * Prettier
 ```
 npm run prettier
@@ -17,19 +19,19 @@ npm run prettier
 ```
 npm run lint
 ```
-*Build
+* Build
 ```
 npm run build
 ```
-*Jasmine
+* Jasmine
 ```
 npm run Jasmine
 ```
-**Build and run Jasmine
+* Build and run Jasmine
 ```
 npm run test
 ```
-*Run the server
+* Start the server
 ```
 npm run start
 ```
