@@ -1,5 +1,7 @@
 # Overview
 This API allows you to add images into your frontend with the size set via URL parameters.
+![Screenshot (44)](https://user-images.githubusercontent.com/93945902/197913486-5a0fb5a4-f8f3-4f84-bdf5-bd4b8294fabb.png)
+
 
 # Endpoints
 
